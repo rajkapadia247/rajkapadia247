@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Raj Kapadia </h1>
-<h3> I'm a chess enthusiast and a front end developer. </h3>
+<h3> I'm a chess enthusiast, a certified keyboardist and I sometimes write code. </h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
