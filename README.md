@@ -1,5 +1,7 @@
-<h1 align="center"> Hi I'm Raj Kapadia </h1>
-<h3> I'm a Front end developer. </h3>
+<h1 align="center"> Hi, I'm Raj Kapadia </h1>
+<h3> I'm a chess enthusiast and a front end developer. </h3>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 📫 How to reach me **rajkapadia247@gmail.com**
 
