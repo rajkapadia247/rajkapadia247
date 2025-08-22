@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Raj Kapadia </h1>
-<h3> I'm a chess enthusiast, a certified keyboardist and a front end developer. </h3>
+<h3> I'm a chess enthusiast, a certified keyboardist and a full stack developer. </h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 📫 Reach me @ **rajkapadia247@gmail.com**
@@ -28,16 +28,8 @@ Language and Tools 🛠
 
 <br/>
 
-<a href="https://t.me/rajjjjk">
-  <img align="left" alt="Raj's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
 <a href="https://github.com/rajkapadia247">
   <img align="left" alt="Raj's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://twitter.com/raka247">
-  <img align="left" alt="Raj's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/raj--kapadia/">
